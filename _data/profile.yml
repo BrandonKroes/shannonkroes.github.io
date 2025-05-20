@@ -20,7 +20,8 @@ linkedin: shannon-kroes-8b2b39124
 orcid: 0000-0002-2761-1245
 
 # short_bio_text_justify: false
-# short_bio: >-
+short_bio: >-
+  I’m Shannon Kroes, and I currently work as a Scientist Innovator at TNO, where I’m all about building privacy-preserving data solutions. 
 
 portrait_url: /assets/images/photos/profile_picture.jpeg
 #portrait_caption: >-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
