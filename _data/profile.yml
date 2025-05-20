@@ -27,12 +27,12 @@ portrait_url: /assets/images/photos/profile_picture.jpeg
 
 education:
 - name: Utrecht University
-  logo: /assets/images/badges/Utrecht_University_logo
+  logo: /assets/images/badges/Utrecht_University_logo.svg
   position: Master of Science, Methodology and Statistics
   date: 2012 - 2016
 
 - name: Utrecht University
-  logo: /assets/images/badges/Utrecht_University_logo
+  logo: /assets/images/badges/Utrecht_University_logo.svg
   position: Bachelor of Science, Psychology
   date: 2016 - 2017
 
